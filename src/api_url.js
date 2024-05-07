@@ -2,7 +2,7 @@
 // const BASE_URL = "https://sungrow-api.onrender.com/api";
 // const BASE_URL = "https://whale-app-rqcs6.ondigitalocean.app/api";
 // const BASE_URL = "https://wipro-backend.onrender.com/api";
-const BASE_URL = "https://machinesoraa43w.site/api";
+const BASE_URL = "https://monkfish-app-8af8j.ondigitalocean.app/api";
 export default BASE_URL;
 
 //https://stingray-app-myegm.ondigitalocean.app/api
