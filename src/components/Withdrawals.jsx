@@ -102,7 +102,7 @@ export default function Withdrawals() {
 
     const getWithdrawals_list = async () => {
 
-        setwithdrawal_list([])
+        // setwithdrawal_list([])
 
         const docSnap = await axios.get(`${BASE_URL}/get_all_withdrawals`).then(res => res.data);
         //console.log(docSnap);
